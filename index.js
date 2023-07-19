@@ -7,7 +7,7 @@ function getWordDefinition(word) {
     {
       url: "https://api.api-ninjas.com/v1/dictionary?word=" + word,
       headers: {
-        "X-Api-Key": "NKfaedglac+/dnpKNKCA4w==qzmQlEDCP4rn0quO",
+        "X-Api-Key": "YOUR-API-KEY",
       },
     },
     function (error, response, body) {
