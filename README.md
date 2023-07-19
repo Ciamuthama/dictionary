@@ -43,7 +43,7 @@ Contributions are always welcome! Feel free to open an issue or submit a pull re
 
 ## 📚 Acknowledgements
 
-- Special thanks to the [Dictionary API](https://api-ninjas.com/api/dictionary) (Replace with the actual API source if used) for providing the word data. 🙏🌟
+- Special thanks to the [Dictionary API](https://api-ninjas.com/api/dictionary)  for providing the word data. 🙏🌟
 
 - Many thanks to all the contributors who made this CLI dictionary app possible! 🌟👏
 
